@@ -8,7 +8,7 @@ const Banner = () => {
 
     <Container>
        <h2 className='font-primary text-[64px] text-white w-[842px] font-bold pt-[]' > We exist since 1975 on the oil and gas industry.</h2>
-       <button className='pt-[13px] pb-[13px] pl-[40px] pr-[40px] bg-[#F40404] w-[186px] text-primary text-[#FFFFFF] font-semibold mt-[31px] cursor-pointer rounded-lg  shadow-xl  ' >LEARN MORE</button>
+       <button className='pt-[13px] pb-[13px] pl-[40px] pr-[40px] bg-[#F40404] w-[186px] text-primary text-[#FFFFFF] font-semibold mt-[31px] cursor-pointer rounded-lg transition transform-3d duration-300  shadow-2xl hover:bg-amber-600 hover:text-white hover:font-bold hover:drop-shadow-[0_0_15px_white]  ' >LEARN MORE</button>
     </Container>
     
    

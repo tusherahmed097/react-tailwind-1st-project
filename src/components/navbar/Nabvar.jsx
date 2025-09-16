@@ -14,19 +14,19 @@ const Nabvar = () => {
 
                 <div className="flex space-x-[47px] text-white cursor-pointer font-primary font-semibold text-[16px] items-center ">
                     <ul>
-                        <li className='hover:bg-gray-100 p-4 rounded hover:text-emerald-900' >Home</li>
+                        <li className='hover:bg-gray-100 duration-300 p-4 rounded hover:text-red-900 hover:font-medium' >Home</li>
                     </ul>
                     <ul>
-                        <li className='hover:bg-gray-100 p-4 rounded hover:text-orange-900' >About</li>
+                        <li className='hover:bg-gray-100 duration-300 p-4 rounded hover:font-medium hover:text-red-900' >About</li>
                     </ul>
                     <ul>
-                        <li className='hover:bg-gray-100 p-4 rounded hover:text-amber-900' >Services</li>
+                        <li className='hover:bg-gray-100 duration-300 p-4 rounded hover:text-red-900 hover:font-medium ' >Services</li>
                     </ul>
                     <ul>
-                        <li className='hover:bg-gray-100 p-4 rounded hover:text-cyan-900' >Gallery</li>
+                        <li className='hover:bg-gray-100 duration-300 p-4 rounded hover:font-medium hover:text-red-900' >Gallery</li>
                     </ul>
                     <ul>
-                        <li className='hover:bg-gray-100 p-4 rounded hover:text-sky-800' >Blog</li>
+                        <li className='hover:bg-gray-100 duration-300 p-4 rounded hover:font-medium hover:text-red-900' >Blog</li>
                     </ul>
                     <button className='border py-[13px] px-[32px] cursor-pointer hover:scale-115 transition transform-3d duration-300 '>CONTACT</button>
                 </div>

@@ -12,7 +12,7 @@ const Service = () => {
           <img className='w-full h-full object-cover  ' src={service} alt="" />
           <div className='absolute top-0 left-0  w-full h-full bg-black/60 z-[1] ' ></div>
           <h2 className='font-primary text-[36px] font-bold absolute top-[147px] left-[116px] text-[#FFFFFF] z-[10] mb-[209px] '>Modern natural oil and gas refineries.</h2>
-          <button className='pt-[14px] pb-[14px] pl-[30px] pr-[30px] bg-[#F40404] rounded-[5px]  text-white font-primary font-semibold absolute top-[220px] left-[116px] z-[11] mb-[139px] ' >Learn More</button>
+          <button className='pt-[14px] pb-[14px] pl-[30px] pr-[30px]  bg-[#F40404] rounded-[5px]  text-white font-primary font-semibold absolute top-[220px] left-[116px] z-[11] cursor-pointer ' >Learn More</button>
       </div>
       </div>
   )

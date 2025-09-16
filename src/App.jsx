@@ -6,13 +6,14 @@ import Learn from './components/learnMore/Learn'
 import Logo from './components/logo/logo'
 import Nabvar from './components/navbar/Nabvar'
 import Service from './components/services/Service'
-import Slider from './components/sliders/Slider'
+import Imageslider from './components/sliders/Imageslider'
 import Supplier from './components/supplier/Supplier'
 import Supply from './components/supply/Supply'
 import Map from './components/map/Map'
 import Area from './components/area/Area'
 import Footer from './components/footer/Footer'
 import Footerbg from './components/footerBg/Footerbg'
+
 
 function App() {
 
@@ -23,7 +24,7 @@ function App() {
       <Nabvar></Nabvar>
       <Banner></Banner>
       <Supplier></Supplier>
-      <Slider></Slider>
+      <Imageslider></Imageslider>
       <Service></Service>
       <Supply></Supply>
       <Learn></Learn>
